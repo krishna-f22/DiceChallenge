@@ -1,0 +1,2 @@
+# DiceChallenge
+Play the game:
